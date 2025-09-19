@@ -14,15 +14,15 @@ export default function About() {
           href="https://github.com/Hrithikdeep"
           target="_blank"
           rel="noopener noreferrer"
-          className="px-4 py-2 bg-gray-900 text-white rounded-lg shadow hover:scale-105 transition"
+          className="px-4 py-2 bg-gray-900 text-white rounded-lg shadow hover:bg-gray-700"
         >
           🌐 GitHub
         </a>
         <a
-          href="https://linkedin.com/in/YOUR-LINKEDIN"
+          href="https://www.linkedin.com/in/hrithikdeep/"
           target="_blank"
           rel="noopener noreferrer"
-          className="px-4 py-2 bg-blue-600 text-white rounded-lg shadow hover:scale-105 transition"
+          className="px-4 py-2 bg-blue-600 text-white rounded-lg shadow hover:bg-blue-500"
         >
           🔗 LinkedIn
         </a>
