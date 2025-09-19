@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function Home() {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen 
@@ -19,27 +21,25 @@ export default function Home() {
 
       {/* Buttons */}
       <div className="flex flex-col md:flex-row gap-4 md:gap-6">
-        <a
+        <Link
           href="/dashboard"
           className="px-6 py-3 bg-white text-blue-600 font-semibold rounded-lg shadow-lg hover:bg-gray-200"
         >
           📊 View Dashboard
-        </a>
-        <a
+        </Link>
+        <Link
           href="/insights"
           className="px-6 py-3 bg-white text-green-600 font-semibold rounded-lg shadow-lg hover:bg-gray-200"
         >
           📑 Read Insights
-        </a>
-        <a
+        </Link>
+        <Link
           href="/about"
           className="px-6 py-3 bg-white text-gray-800 font-semibold rounded-lg shadow-lg hover:bg-gray-200"
         >
           👨‍💻 About Me
-        </a>
+        </Link>
       </div>
     </div>
   );
 }
-
-
