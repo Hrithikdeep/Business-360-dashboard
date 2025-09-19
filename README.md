@@ -137,7 +137,7 @@ Business-360-dashboard/
 
 **Hrithik Deep**  
 - 🌐 [GitHub](https://github.com/Hrithikdeep)  
-- 🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)  
+- 🔗 [LinkedIn](https://linkedin.com/in/hrithikdeep)  
 
 ---
 
