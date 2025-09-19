@@ -1,0 +1,2 @@
+superstore_revenue,retail_revenue,total_revenue,aov_superstore,employee_attrition_rate,customer_churn_rate,detected_columns
+2288271.4903,8887208.894,11175480.3843,457.3798701379173,0.16122448979591836,0.33310281235592437,"{'superstore_sales_col': 'sales', 'superstore_order_col': 'order_id', 'retail_qty_col': 'quantity', 'retail_price_col': 'unit_price', 'retail_revenue_col': 'revenue', 'retail_invoice_col': 'invoiceno', 'retail_customer_col': 'customerid', 'retail_date_col': 'invoice_date', 'hr_attrition_col': 'attritionflag'}"

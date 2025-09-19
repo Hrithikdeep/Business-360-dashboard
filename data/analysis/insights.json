@@ -1,0 +1,19 @@
+{
+  "kpis": {
+    "total_revenue": 11175480.3843,
+    "revenue_mom_pct": -29.399895017067646,
+    "average_order_value": 457.3798701379173,
+    "customer_churn_rate": 0.33310281235592437,
+    "employee_attrition_rate": 0.16122448979591836
+  },
+  "stat_tests": [
+    {
+      "Test": "Correlation",
+      "Variable 1": "MonthlyIncome",
+      "Variable 2": "YearsAtCompany",
+      "Statistic": -0.005,
+      "p-value": 0.004,
+      "Interpretation": "Significant"
+    }
+  ]
+}

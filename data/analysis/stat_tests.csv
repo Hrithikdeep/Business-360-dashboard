@@ -1,0 +1,2 @@
+Test,Variable 1,Variable 2,Statistic,p-value,Interpretation
+Correlation,MonthlyIncome,YearsAtCompany,-0.005,0.004,Significant
