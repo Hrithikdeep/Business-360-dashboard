@@ -1,4 +1,5 @@
 export default function Dashboard() {
+  // fake KPI demo data
   const kpis = {
     superstore: 125000,
     hr_attrition: "12%",
@@ -37,10 +38,9 @@ export default function Dashboard() {
       <div className="bg-white rounded-xl shadow-lg p-8">
         <h2 className="text-xl font-semibold mb-4 text-gray-700">Revenue Trends</h2>
         <div className="h-64 flex items-center justify-center text-gray-400">
-          📈 Chart visualization placeholder
+          📈 Chart goes here
         </div>
       </div>
     </div>
   );
 }
-
